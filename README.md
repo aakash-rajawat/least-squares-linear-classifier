@@ -1,4 +1,4 @@
-### least-squares-linear-classifier
+### Least Square Llinear Classifier
 
 Trained a least-squares linear classifier on the 2D training data and tested it on
 the training and test set. The datasets are stored in the files
